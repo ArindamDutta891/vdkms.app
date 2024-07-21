@@ -1,0 +1,40 @@
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+      <div class="col-12 col-md-8">
+          <div class="article article-single">
+              <h1 class="title">{{page.title}}</h1>
+              {% for article in site.data.articles %}
+                  <div class="article-box-top mt-4">
+                      <div class="article-title"><strong>Title: </strong> {{ article.title }} </div>
+                      <div class="article-authors"><strong>Authors: </strong> {{ article.authors }} </div>
+                      <div class="article-source"><strong>Source: </strong> {{ article.source }}</div>
+                      <div class="article-year"><strong>Year: </strong> {{ article.year }}</div>
+                      {% if article.volume %}
+                          <div class="article-volume"><strong>Volume: </strong> {{ article.volume }}</div>
+                      {% endif %}
+                      {% if article.issue %}
+                          <div class="article-issue"><strong>Issue: </strong> {{ article.issue }}</div>
+                      {% endif %}
+                      {% if article.pages %}
+                          <div class="article-pages"><strong>Pages: </strong> {{ article.pages }}</div>
+                      {% endif %}
+                      {% if article.doi %}
+                          <div class="article-doi"><strong>DOI: </strong>
+                              <a href="https://doi.org/{{ article.doi }}">
+                                  {{ article.doi }}
+                              </a>
+                          </div>
+                      {% endif %}
+                      {% if article.url %}
+                          <div class="article-url"><strong>URL: </strong>
+                              <a href="{{ article.url }}">
+                                  {{ article.url }}
+                              </a>
+                          </div>
+                      {% endif %}
+                  </div>
+              {% endfor %}
+          </div>
+      </div>
+  </div>
+</div>

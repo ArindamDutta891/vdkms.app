@@ -9,6 +9,10 @@ main:
     url: "/docs/"
     weight: 3
     newtab: true
+    name: "Publications"
+    url: "#"
+    weight: 4
+    newtab: true
   - name: "API"
     url: "#"
     weight: 4

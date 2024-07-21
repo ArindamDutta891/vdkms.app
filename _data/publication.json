@@ -1,0 +1,92 @@
+{
+  "articles": [
+    {
+      "title": "Considerations for Decision Makers and Developers Toward the Adoption of Decentralized Key Management Systems Technology in Emerging Applications.",
+      "authors": "Yao, Wei, Gorlewski, Nicholas, Deek, Fadi P., Wang, Guiling",
+      "source": "Computer",
+      "volume": "57",
+      "issue": "7",
+      "year": 2024,
+      "pages": "27-38",
+      "doi": "10.1109/MC.2023.3339390",
+      "url": "https://doi.org/10.1109/MC.2023.3339390"
+    },
+    {
+      "title": "iBCTrans: A Practical Blockchain-Based Framework for Cellular Vehicular-To-Everything Networks.",
+      "authors": "Yao, Wei, Liu, Yuhong, Deek, Fadi P., Wang, Guiling",
+      "source": "2023 IEEE International Conference on Blockchain (Blockchain)",
+      "year": 2023,
+      "pages": "239-246",
+      "doi": "10.1109/Blockchain60715.2023.00047",
+      "url": "https://doi.org/10.1109/Blockchain60715.2023.00047"
+    },
+    {
+      "title": "VDKMS: Vehicular Decentralized Key Management System for Cellular Vehicular-to-Everything Networks, A Blockchain-Based Approach.",
+      "authors": "Yao, Wei, Liu, Yuhong, Deek, Fadi P., Wang, Guiling, Wu, Ying",
+      "source": "GLOBECOM 2023 - 2023 IEEE Global Communications Conference",
+      "year": 2023,
+      "pages": "7526-7531",
+      "doi": "10.1109/GLOBECOM54140.2023.10437245",
+      "url": "https://doi.org/10.1109/GLOBECOM54140.2023.10437245"
+    },
+    {
+      "title": "SoK: A Taxonomy for Critical Analysis of Consensus Mechanisms in Consortium Blockchain.",
+      "authors": "Yao, Wei, Deek, Fadi P., Murimi, Renita, Wang, Guiling",
+      "source": "IEEE Access",
+      "volume": "11",
+      "year": 2023,
+      "pages": "79572-79587",
+      "doi": "10.1109/ACCESS.2023.3298675",
+      "url": "https://doi.org/10.1109/ACCESS.2023.3298675"
+    },
+    {
+      "title": "Blockchain-Based P2P Content Delivery With Monetary Incentivization and Fairness Guarantee",
+      "authors": "He, Songlin, Lu, Yuan, Tang, Qiang, Wang, Guiling, Wu, Chase Qishi",
+      "source": "IEEE Transactions on Parallel and Distributed Systems",
+      "volume": "34",
+      "issue": "2",
+      "year": 2023,
+      "pages": "746-765",
+      "doi": "10.1109/TPDS.2022.3217036",
+      "url": "https://doi.org/10.1109/TPDS.2022.3217036"
+    },
+    {
+      "title": "Safety in Traffic Management Systems: A Comprehensive Survey",
+      "authors": "Du, Wenlu, Dash, Ankan, Li, Jing, Wei, Hua, Wang, Guiling",
+      "source": "Designs",
+      "volume": "7",
+      "issue": "4",
+      "year": 2023,
+      "article": "100",
+      "doi": "10.3390/designs7040100",
+      "url": "https://www.mdpi.com/2411-9660/7/4/100"
+    },
+    {
+      "title": "Fair Peer-to-Peer Content Delivery via Blockchain.",
+      "authors": "He, Songlin, Lu, Yuan, Tang, Qiang, Wang, Guiling, Wu, Chase Qishi",
+      "source": "In: Bertino, Elisa, Shulman, Haya, Waidner, Michael (eds) Computer Security -- ESORICS 2021. Cham: Springer International Publishing",
+      "year": 2021,
+      "pages": "348-369",
+      "doi": "10.1007/978-3-030-88418-5_17",
+      "url": "https://doi.org/10.1007/978-3-030-88418-5_17"
+    },
+    {
+      "title": "ADPP: A Novel Anomaly Detection and Privacy-Preserving Framework Using Blockchain and Neural Networks in Tokenomics",
+      "authors": "Yao, Wei, Gu, Jingyi, Du, Wenlu, Deek, Fadi P., Wang, Guiling",
+      "source": "International Journal of Artificial Intelligence & Applications",
+      "volume": "13",
+      "issue": "6",
+      "year": 2022,
+      "pages": "17-32"
+    },
+    {
+      "title": "Safelight: A reinforcement learning method toward collision-free traffic signal control.",
+      "authors": "Du, Wenlu, Ye, Junyi, Gu, Jingyi, Li, Jing, Wei, Hua, Wang, Guiling",
+      "source": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "volume": "37",
+      "issue": "12",
+      "year": 2023,
+      "pages": "14801-14810"
+    }
+  ]
+}
